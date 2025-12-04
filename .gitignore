@@ -1,0 +1,8 @@
+cvenv/
+__pycache__/
+*.DS_Store
+static/videos/*.mp4cvenv/
+__pycache__/
+*.DS_Store
+static/videos/*.mp4
+
