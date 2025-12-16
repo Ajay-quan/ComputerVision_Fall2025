@@ -4,5 +4,5 @@ __pycache__/
 static/videos/*.mp4cvenv/
 __pycache__/
 *.DS_Store
-static/videos/*.mp4
+#static/videos/*.mp4
 
